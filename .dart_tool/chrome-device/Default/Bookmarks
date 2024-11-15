@@ -1,0 +1,51 @@
+{
+   "checksum": "30feefb1f739ad65813cd061f7d825f0",
+   "roots": {
+      "bookmark_bar": {
+         "children": [  ],
+         "date_added": "13376111488215890",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Favourites bar",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13376111488215894",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other favourites",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [ {
+            "date_added": "13321771349762131",
+            "date_last_used": "0",
+            "guid": "548fabfc-6ea4-45cc-9698-aa7e12d70d84",
+            "id": "6",
+            "name": "Facebook",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.facebook.com/",
+            "visit_count": 0
+         } ],
+         "date_added": "13376111488215895",
+         "date_last_used": "0",
+         "date_modified": "13321771349762131",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile favourites",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CjEKDgiIgQISCMwrRaORAQAAEgAqGEFDYWFqQTdJV3laOFRRN0NrS3Z1Mnc9PUgDoAYHEo4BCAISiQEKHFljU1RvbnZFU1B3cUNzNEwyY3JWaHY2OEw5OD0SJDE3ZDNhZTc4LTA1NTItNTkwYy05YmFmLTg3YzVlYzUzOWNmZBgAIAAoADCwstnw0DA41cDZ8NAwQNXA2fDQMEocb1BWa2h3QlJiVjY1S0NXUjIrSU9OSFdvT3U4PVoAZQAAAADCPgJgABKsAQgGEqcBChxsYlREMUQ4S0xqUEo3aGFsVGNvRWY0bU5RclU9EiQ1NDhmYWJmYy02ZWE0LTQ1Y2MtOTY5OC1hYTdlMTJkNzBkODQYACAAKAAwy9eUmpoyOIHnlJqaMkCB55SamjJKHElzUmU5V0pRZ1l1MzFsUC9IZXdWVkFnOXAydz1aHiIcOHovT3NMbDdURDlFd3hiRGJ0Z3Z0dTc1UzVnPWVECP19wj4CYAUSjgEIARKJAQoceXhKLzZmdmtlY3I3a3A1RVF6QjR0V0xwZGJFPRIkN2U2NDIzY2ItMjhlNi01ZmU4LWIzY2ItMzIyN2M5ZTg2NzYwGAAgACgAMK+y2fDQMDjGwNnw0DBAxsDZ8NAwShxhUkNXTGdoRjliNUlucUtJRHZ1Si9qdlFrRmM9WgBlAAAAAMI+AmAAEo4BCAMSiQEKHG5qZ0R1ODhlQ3J2WHA4NnBEN2ZIR2NxRnA4OD0SJGEwZmJiYjY1LTFiMDYtNTJjMC1iY2QwLTQxOWZhMWU5M2Y0YhgAIAAoADC1stnw0DA4gcLZ8NAwQIHC2fDQMEoceXpOQjAxY241NEE3Y1JVMHVUKy9QZ21UdFVvPVoAZQAAAADCPgJgADAAOAA=",
+   "version": 1
+}
